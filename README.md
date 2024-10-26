@@ -1,6 +1,6 @@
 <h2 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Majd Soubh</h2>
 
-- 📫 How to reach me **majd-52@hotmail.com**
+- 📫 How to reach me **eng.majd.soubh@gmail.com**
 
 - 📝 I regularly write articles on [https://medium.com/@majdsoubh](https://medium.com/@majdsoubh)
 
